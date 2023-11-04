@@ -148,9 +148,9 @@ public class product_management {
 				System.out.println("User " + deleteProduct + " has been deleted");
 				return;
 			}else {
-				System.out.println(" User Not Found");
-				
+				System.out.println(" User Not Found");		
 		    }
+		
 
 	}
 	}
